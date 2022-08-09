@@ -144,7 +144,7 @@ const wordList = [
         hint: "markup language for the web"
     },
     {
-        word: "air",
+        word: "AIR",
         hint: "related to a gas"
     },
     {
