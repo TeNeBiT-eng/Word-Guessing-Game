@@ -57,7 +57,7 @@ function initGame(e) {
   setTimeout(() => {
     if (corrects.length === word.length) {
       // if users found all letters
-      alert(`Congrats! You have found the word ${word}`);
+      alert(`Congrats! You have found the word ${word.toUpperCase()}`);
       randomWord(); // calling randomfunc to reset game
     } else if (maxGuesses < 1) {
       // if users couldn't find all letters
@@ -72,5 +72,5 @@ function initGame(e) {
 
 resetBtn.addEventListener("click", randomWord);
 typingInput.addEventListener("input", initGame);
-inputs.addEventListener("click", () => typingInput.focus());
+inputs.addEventListener("click", () => typingInput());
 document.addEventListener("keydown", () => typingInput.focus());
