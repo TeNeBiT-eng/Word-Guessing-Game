@@ -20,7 +20,11 @@ h1 {
   font-size: 2rem;
   font-weight: 500;
   padding: 20px 25px;
+  text-align: center;
   border-bottom: 1px solid #ccc;
+}
+.note {
+  display: none;
 }
 .content {
   margin: 25px 25px 35px;
@@ -69,4 +73,12 @@ p {
   color: white;
   background-color: #1bb395;
   border-radius: 5px;
+}
+
+@media (min-width: 1024px) {
+  .note {
+    display: block;
+    padding-top: 1.5rem;
+    padding-left: 25px;
+  }
 }

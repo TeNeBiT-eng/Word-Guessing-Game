@@ -32,7 +32,7 @@ randomWord();
 function initGame(e) {
   let key = e.target.value;
   if (
-    key.match(/^[A-Za-z]+$/) &&
+    key.match(/^[A-Za-z]+$/gi) &&
     !incorrects.includes(` ${key}`) &&
     !corrects.includes(key)
   ) {
