@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Word Guess</title>
+    <link rel="stylesheet" href="./style.css" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,900&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="./Imgs/guess.png"
+    />
+  </head>
+  <body>
+    <div class="wrapper">
+        <h1>Guess the word</h1>
+        <div class="content">
+            <div class="inputs">
+                <input type="text" value="A" disabled>
+                <input type="text" disabled>
+                <input type="text" disabled>
+                <input type="text" disabled>
+                <input type="text" disabled>
+                <input type="text" disabled>
+            </div>
+            <div class="details">
+                <p class="hint">Hint: <span>Hint will be shown here</span></p>
+                <p class="guess-left">Guesses left: <span>10</span></p>
+                <p class="wrong-letter">Wrong letter: <span>a, b, c, d</span></p>
+            </div>
+            <button class="reset-btn">Reset Game</button>
+        </div>
+    </div>
+
+    <script src="./js/script.js" async defer></script>
+    <script src="./js/word.js" async defer></script>
+  </body>
+</html>
