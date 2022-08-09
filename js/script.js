@@ -67,7 +67,7 @@ function initGame(e) {
         inputs.querySelectorAll("input")[i].value = word[i];
       }
     }
-  });
+  }, 500);
 }
 
 resetBtn.addEventListener("click", randomWord);
