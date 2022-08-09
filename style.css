@@ -11,62 +11,62 @@ body {
   min-height: 100vh;
   background-color: #1bb395;
 }
-.wrapper{
-    max-width: 450px;
-    background-color: white;
-    border-radius: 10px;
+.wrapper {
+  max-width: 450px;
+  background-color: white;
+  border-radius: 10px;
 }
-h1{
-    font-size: 25px;
-    font-weight: 500;
-    padding: 20px 25px;
-    border-bottom: 1px solid #ccc;
+h1 {
+  font-size: 2rem;
+  font-weight: 500;
+  padding: 20px 25px;
+  border-bottom: 1px solid #ccc;
 }
-.content{
-    margin: 25px 25px 35px;
+.content {
+  margin: 25px 25px 35px;
 }
-.typing-input{
-    position: absolute;
-    z-index: -1;
-    opacity: 0;
+.typing-input {
+  position: absolute;
+  z-index: -1;
+  opacity: 0;
 }
-.inputs{
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-    margin-bottom: 5px;
+.inputs {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-bottom: 5px;
 }
-.inputs input{
-    width: 57px;
-    height: 56px;
-    font-size: 35px;
-    font-weight: 500;
-    text-align: center;
-    text-transform: uppercase;
-    color: #1bb395;
-    margin: 4px;
-    border-radius: 5px;
-    border: 1px solid #b5b5b5;
-    background: none;
+.inputs input {
+  width: 57px;
+  height: 56px;
+  font-size: 35px;
+  font-weight: 500;
+  text-align: center;
+  text-transform: uppercase;
+  color: #1bb395;
+  margin: 4px;
+  border-radius: 5px;
+  border: 1px solid #b5b5b5;
+  background: none;
 }
-.inputs input:first-child{
-    margin-left: 0px;
+.inputs input:first-child {
+  margin-left: 0px;
 }
-.details{
-    margin: 20px 0 25px;
+.details {
+  margin: 20px 0 25px;
 }
-p{
-    font-size: 20px;
-    margin-bottom: 15px;
+p {
+  font-size: 20px;
+  margin-bottom: 15px;
 }
-.reset-btn{
-    width: 100%;
-    font-size: 17px;
-    padding: 15px 0;
-    border: none;
-    outline: none;
-    cursor: pointer;
-    color: white;
-    background-color: #1bb395;
-    border-radius: 5px;
+.reset-btn {
+  width: 100%;
+  font-size: 17px;
+  padding: 15px 0;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  color: white;
+  background-color: #1bb395;
+  border-radius: 5px;
 }
