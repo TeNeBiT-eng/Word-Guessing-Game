@@ -1,146 +1,146 @@
 const wordList = [
     {
-        word: "python",
+        word: "PYTHON",
         hint: "programming language"
     },
     {
-        word: "guitar",
+        word: "GUITAR",
         hint: "a musical instrument"
     },
     {
-        word: "aim",
+        word: "AIM",
         hint: "a purpose or intention"
     },
     {
-        word: "venus",
+        word: "VENUS",
         hint: "hottest planet in our solar system"
     },
     {
-        word: "gold",
+        word: "GOLD",
         hint: "a yellow precious metal"
     },
     {
-        word: "ebay",
+        word: "EBAY",
         hint: "online shopping site"
     },
     {
-        word: "golang",
+        word: "GOLANG",
         hint: "programming language"
     },
     {
-        word: "coding",
+        word: "CODING",
         hint: "related to programming"
     },
     {
-        word: "matrix",
+        word: "MATRIX",
         hint: "science fiction movie"
     },
     {
-        word: "bugs",
+        word: "BUGS",
         hint: "related to programming"
     },
     {
-        word: "avatar",
+        word: "AVATAR",
         hint: "epic science fiction film"
     },
     {
-        word: "gif",
+        word: "GIF",
         hint: "a file format for image"
     },
     {
-        word: "mental",
+        word: "MENTAL",
         hint: "related to the mind"
     },
     {
-        word: "map",
+        word: "MAP",
         hint: "diagram represent of an area"
     },
     {
-        word: "island",
+        word: "ISLAND",
         hint: "land surrounded by water"
     },
     {
-        word: "hockey",
+        word: "HOCKEY",
         hint: "a famous outdoor game"
     },
     {
-        word: "chess",
+        word: "CHESS",
         hint: "mind related game"
     },
     {
-        word: "signal",
+        word: "SIGNAL",
         hint: "a social media app"
     },
     {
-        word: "github",
+        word: "GITHUB",
         hint: "code hosting platform"
     },
     {
-        word: "png",
+        word: "PNG",
         hint: "a image file format"
     },
     {
-        word: "silver",
+        word: "SILVER",
         hint: "precious greyish-white metal"
     },
     {
-        word: "mobile",
+        word: "MOBILE",
         hint: "an electronic device"
     },
     {
-        word: "gpu",
+        word: "GPU",
         hint: "computer component"
     },
     {
-        word: "java",
+        word: "JAVA",
         hint: "programming language"
     },
     {
-        word: "google",
+        word: "GOOGLE",
         hint: "famous search engine"
     },
     {
-        word: "venice",
+        word: "VENICE",
         hint: "famous city of waters"
     },
     {
-        word: "excel",
+        word: "EXCEL",
         hint: "microsoft product for windows"
     },
     {
-        word: "mysql",
+        word: "MYSQL",
         hint: "a relational database system"
     },
     {
-        word: "nepal",
+        word: "NEPAL",
         hint: "developing country name"
     },
     {
-        word: "flute",
+        word: "FLUTE",
         hint: "a musical instrument"
     },
     {
-        word: "crypto",
+        word: "CRYPTO",
         hint: "related to cryptocurrency"
     },
     {
-        word: "tesla",
+        word: "TESLA",
         hint: "unit of magnetic flux density"
     },
     {
-        word: "mars",
+        word: "MARS",
         hint: "planet of our solar system"
     },
     {
-        word: "proxy",
+        word: "PROXY",
         hint: "related to server application"
     },
     {
-        word: "email",
+        word: "EMAIL",
         hint: "related to exchanging message"
     },
     {
-        word: "html",
+        word: "HTML",
         hint: "markup language for the web"
     },
     {
@@ -148,51 +148,51 @@ const wordList = [
         hint: "related to a gas"
     },
     {
-        word: "idea",
+        word: "IDEA",
         hint: "a thought or suggestion"
     },
     {
-        word: "server",
+        word: "SERVER",
         hint: "related to computer or system"
     },
     {
-        word: "svg",
+        word: "SVG",
         hint: "a vector image format"
     },
     {
-        word: "jpeg",
+        word: "JPEG",
         hint: "an image file format"
     },
     {
-        word: "search",
+        word: "SEARCH",
         hint: "act to find something"
     },
     {
-        word: "key",
+        word: "KEY",
         hint: "small piece of metal"
     },
     {
-        word: "egypt",
+        word: "EGYPT",
         hint: "a country name"
     },
     {
-        word: "joker",
+        word: "JOKER",
         hint: "psychological thriller film"
     },
     {
-        word: "dubai",
+        word: "DUBAI",
         hint: "developed country name"
     },
     {
-        word: "photo",
+        word: "PHOTO",
         hint: "representation of person or scene"
     },
     {
-        word: "nile",
+        word: "NILE",
         hint: "largest river in the world"
     },
     {
-        word: "rain",
+        word: "RAIN",
         hint: "related to a water"
     },
 ]
